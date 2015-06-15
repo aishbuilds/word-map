@@ -1,0 +1,11 @@
+twitter:
+ consumer_key:	fqXe3y4oHau2Td1Q9rVc4Cwhr
+ consumer_secret: Duv0BQK8TIJfEN4SxGcU95QN0R1BgyejY4KtfN869i5KvNXNAS
+ access_token: 3317848595-eGWn7aV5bmgzgeIRxnqlJJta0t5u6BCb2omBLsZ
+ access_token_secret: U3aAg72oOjMYvc2sNv0VSnaVWrNm436CvbGMKYZ1UFKbk
+what3words:
+ url: http://api.what3words.com/w3w?
+ key: UPS1Y4K4
+maps:
+ url: http://maps.google.com/maps/api/staticmap?
+ key: AIzaSyAFnOkejPZqFJVorWwS6TP7npM-58DoPps
